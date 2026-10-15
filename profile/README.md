@@ -15,7 +15,7 @@ The group studies how buildings actually perform in use. We measure (hygro)therm
 | Repo | What it is |
 |---|---|
 | `python-wall` | RC-network heat-transfer models and fitting routines (Minuit, emcee) for estimating the in-situ thermal performance of walls. Mirrored from Bitbucket `ei_bayes_group/python-wall`. |
-| `pcb-models` | Heat transfer coefficient (HTC) models for the SMETER validation dataset: steady-state fits, data filtering and energy prediction, with dynamic models run through `python-wall`. |
+| `pcb-models` | Heat transfer coefficient (HTC) models for monitored dwellings: steady-state fits, data filtering and energy prediction, with dynamic models run through `python-wall`. |
 | `serl-cohort` | Brings the SERL Observatory smart-meter, survey, EPC and climate data into the `building-energy-analysis` framework. Work in progress. |
 | `ghg-cohort` | Brings Green Homes Grant monitoring data (in-home temperature and humidity loggers, retrofit dates) into the same framework, on top of `serl-cohort`. Work in progress. |
 | `pcb-equipment` | Loan system for the group's field equipment, running on UCL Microsoft 365 (SharePoint, Power Automate, Power Apps). Holds the design docs and runbooks. |
