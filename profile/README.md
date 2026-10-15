@@ -1,3 +1,5 @@
+<img src="logo.jpg" alt="PCB group logo" width="80" align="right">
+
 # Physical Characterisation of Buildings (PCB)
 
 Code and tools from the [Physical Characterisation of Buildings Group](https://www.ucl.ac.uk/bartlett/environment-energy-resources/energy/research-ucl-energy-institute/physical-characterisation-buildings) at the UCL Energy Institute.
